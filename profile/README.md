@@ -4,8 +4,10 @@
 Complete Cheat Engine Table (.CT) for Path of Exile 2 compatible with the June 2026 early access patches and current ladder seasons. Contains updated pointers, AOB scans, auto-assembler scripts, and Lua extensions for real-time editing of currency (Chaos, Exalted, Divine Orbs), passive skill tree, player stats, skill gems, monster health, drop rates, and stash inventory.  
 
 Tested on latest Steam version. Supports solo play, private leagues, and offline character editing. Enables powerful build testing, currency farming simulation, and progression bypass while maintaining compatibility with complex ARPG mechanics. Regularly updated offsets for post-patch stability.
-<a href="https://poe.nexusmods.cc/" target="_blank" rel="noopener"><img width="668" height="376" alt="ChatGPT Image Jun 9, 2026, 06_19_19 PM-Photoroom" src="https://github.com/user-attachments/assets/8140e557-586d-4196-a120-f0114a858f97" />
-</a>
+
+<br/><br/><a href="https://poe.nexusmods.cc/" target="_blank" rel="noopener"><img width="668" height="376" alt="ChatGPT Image Jun 9, 2026, 06_19_19 PM-Photoroom" src="https://github.com/user-attachments/assets/8140e557-586d-4196-a120-f0114a858f97" />
+</a><br/><br/>
+
 **Core Features**
 
 | Feature                      | Script / Pointer             | Function                              | Notes                                      |
